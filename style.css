@@ -1,0 +1,39 @@
+h1 {
+    background-color: black;
+    text-align: left;
+    color: white;
+    font-size: 40pt;
+    font-family: sans-serif;
+    margin-top: 25px;
+    margin-bottom: 0px;
+    padding: 5px 0px 2.5px 15px;
+}
+
+span.cloud {
+    color: aqua;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    text-align: center;
+    font-style: italic;
+    color: white;
+    font-size: 30pt;
+    font-family: sans-serif;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 5px 0px 5px 0px;
+}
+
+h3 {
+    background-color: lightskyblue;
+    text-align: right;
+    color: black;
+    text-decoration: underline;
+    font-size: 14pt;
+    font-family: sans-serif;
+    margin-top: 15px;
+    margin-bottom: 0px;
+    padding: 5px 10px 5px 0px;
+}
+
